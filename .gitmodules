@@ -1,0 +1,19 @@
+[submodule "supertab"]
+  path = bundle/supertab
+  url  = https://github.com/ervandew/supertab.git
+
+[submodule "syntastic"]
+  path = bundle/syntastic
+  url  = https://github.com/scrooloose/syntastic.git
+
+[submodule "vim-airline"]
+  path = bundle/vim-airline
+  url  = https://github.com/bling/vim-airline.git
+
+[submodule "vim-fugitive"]
+  path = bundle/vim-fugitive
+  url  = https://github.com/tpope/vim-fugitive.git
+
+[submodule "vim-sensible"]
+  path = bundle/vim-sensible
+  url  = https://github.com/tpope/vim-sensible.git
