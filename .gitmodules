@@ -21,3 +21,6 @@
 [submodule "vim-perl"]
   path = bundle/vim-perl
   url = https://github.com/vim-perl/vim-perl.git
+[submodule "bundle/sql-syntax-highlighting.vim"]
+	path = bundle/sql-syntax-highlighting.vim
+	url = https://github.com/vim-scripts/sql.vim--Stinson.git
