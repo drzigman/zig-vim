@@ -21,3 +21,5 @@ set shiftwidth=4
 " Exception Highlighting
 match ErrorMsg '\s\+$'
 "match Error /\%81v.\+/
+
+set smarttab!
